@@ -1,0 +1,5 @@
+git
+mv
+rm
+git testing
+

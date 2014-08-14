@@ -4,3 +4,8 @@ abcdefghijklmnop
 
 abcdefgh
 
+git
+mv
+rm
+git testing
+

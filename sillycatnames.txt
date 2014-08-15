@@ -2,10 +2,10 @@ Merlin
 Clio 
 Tibio
 Fresco
-Ribo
-Deo
-Nucleic
-Amino
+Ribonucleic acid
+Deoxyribonucleic acid
+Nucleic acid
+Amino acid
 Darwin - final name #1
 Dante - final name #2
 Elmer
